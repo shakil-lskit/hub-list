@@ -2,6 +2,46 @@
 
 All notable changes to `laravel-medialibrary` will be documented in this file
 
+## 8.10.2 - 2021-05-18
+
+- add support for PHP 8
+
+## 8.10.1 - 2020-10-05
+
+- add `queue_conversions_by_default` to config file
+
+## 8.9.3 - 2020-10-03
+
+- fix responsive images
+
+## 8.9.2 - 2020-10-02
+
+- improve responsive image inline script (#2032)
+
+## 8.9.1 - 2020-10-02
+
+- missing $loadingAttributeValue test in image view (#2082)
+
+## 8.9.0 - 2020-09-30
+
+- add support to include `ResponsiveImages` based on condition (#2036)
+
+## 8.8.0 - 2020-09-30
+
+- allow to change the way the images are being downloaded (#2054)
+
+## 8.7.5 - 2020-09-30
+
+- fix for default lazy="auto" value (#2081)
+
+## 8.7.4 - 2020-09-30
+
+- fixed conversions when disk != conversions_disk (#2080)
+
+## 8.7.3 - 2020-09-28
+
+- fix file deletion problem (#2073)
+
 ## 8.7.2 - 2020-09-20
 
 - allow Guzzle 7 in dev-deps
