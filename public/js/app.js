@@ -21071,10 +21071,40 @@ module.exports = {
 
 /***/ }),
 
-/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Welcome.vue?vue&type=script&lang=js":
-/*!********************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Welcome.vue?vue&type=script&lang=js ***!
-  \********************************************************************************************************************************************************************************************/
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Home.vue?vue&type=script&lang=js":
+/*!*****************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Home.vue?vue&type=script&lang=js ***!
+  \*****************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _Sections_HeroSection_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../Sections/HeroSection.vue */ "./resources/js/Sections/HeroSection.vue");
+/* harmony import */ var _Sections_CategoryGridSection_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../Sections/CategoryGridSection.vue */ "./resources/js/Sections/CategoryGridSection.vue");
+/* harmony import */ var _Sections_ListingSection_vue__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../Sections/ListingSection.vue */ "./resources/js/Sections/ListingSection.vue");
+/* harmony import */ var _Sections_FooterSection_vue__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../Sections/FooterSection.vue */ "./resources/js/Sections/FooterSection.vue");
+
+
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
+  components: {
+    HeroSection: _Sections_HeroSection_vue__WEBPACK_IMPORTED_MODULE_0__["default"],
+    CategoryGridSection: _Sections_CategoryGridSection_vue__WEBPACK_IMPORTED_MODULE_1__["default"],
+    ListingSection: _Sections_ListingSection_vue__WEBPACK_IMPORTED_MODULE_2__["default"],
+    FooterSection: _Sections_FooterSection_vue__WEBPACK_IMPORTED_MODULE_3__["default"]
+  }
+});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Sections/CategoryGridSection.vue?vue&type=script&lang=js":
+/*!***********************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Sections/CategoryGridSection.vue?vue&type=script&lang=js ***!
+  \***********************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -21086,10 +21116,274 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Welcome.vue?vue&type=template&id=317d1a6e&lang=true":
-/*!**********************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Welcome.vue?vue&type=template&id=317d1a6e&lang=true ***!
-  \**********************************************************************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Sections/FooterSection.vue?vue&type=script&lang=js":
+/*!*****************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Sections/FooterSection.vue?vue&type=script&lang=js ***!
+  \*****************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Sections/HeroSection.vue?vue&type=script&lang=js":
+/*!***************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Sections/HeroSection.vue?vue&type=script&lang=js ***!
+  \***************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Sections/ListingSection.vue?vue&type=script&lang=js":
+/*!******************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Sections/ListingSection.vue?vue&type=script&lang=js ***!
+  \******************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Home.vue?vue&type=template&id=6a63e488&lang=true":
+/*!*******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Home.vue?vue&type=template&id=6a63e488&lang=true ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* binding */ render)
+/* harmony export */ });
+/* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
+
+
+var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "modal fade",
+  id: "login_modal",
+  tabindex: "-1",
+  role: "dialog",
+  "aria-labelledby": "login_modal_label",
+  "aria-hidden": "true"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "modal-dialog modal-dialog-centered",
+  role: "document"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "modal-content"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "modal-header"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
+  "class": "modal-title",
+  id: "login_modal_label"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("i", {
+  "class": "la la-lock"
+}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Sign In")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
+  type: "button",
+  "class": "close",
+  "data-dismiss": "modal",
+  "aria-label": "Close"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
+  "aria-hidden": "true"
+}, "×")])]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "modal-body"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("form", {
+  action: "/",
+  id: "login-form"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
+  type: "text",
+  "class": "form-control",
+  placeholder: "Username or Email",
+  required: ""
+}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
+  type: "password",
+  "class": "form-control",
+  placeholder: "Password",
+  required: ""
+}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "keep_signed custom-control custom-checkbox checkbox-outline checkbox-outline-primary"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
+  type: "checkbox",
+  "class": "custom-control-input",
+  name: "keep_signed_in",
+  value: "1",
+  id: "keep_signed_in"
+}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("label", {
+  "for": "keep_signed_in",
+  "class": "not_empty custom-control-label"
+}, "Keep me signed in")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
+  type: "submit",
+  "class": "btn btn-block btn-lg btn-gradient btn-gradient-two"
+}, "Sign In")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "form-excerpts"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("ul", {
+  "class": "list-unstyled"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("Not a member? "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: ""
+}, "Sign up")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: ""
+}, "Recover Password")])]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "social-login"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", null, "Or connect with"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "",
+  "class": "btn btn-outline-secondary"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("i", {
+  "class": "fab fa-facebook-f"
+}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Facebook")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "",
+  "class": "btn btn-outline-danger"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("i", {
+  "class": "fab fa-google-plus-g"
+}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Google")])])])])])])])], -1
+/* HOISTED */
+);
+
+var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "modal fade",
+  id: "signup_modal",
+  tabindex: "-1",
+  role: "dialog",
+  "aria-labelledby": "signup_modal_label",
+  "aria-hidden": "true"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "modal-dialog modal-dialog-centered",
+  role: "document"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "modal-content"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "modal-header"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
+  "class": "modal-title",
+  id: "signup_modal_label"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("i", {
+  "class": "la la-lock"
+}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Sign Up")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
+  type: "button",
+  "class": "close",
+  "data-dismiss": "modal",
+  "aria-label": "Close"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
+  "aria-hidden": "true"
+}, "×")])]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "modal-body"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("form", {
+  action: "/",
+  id: "signup-form"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
+  type: "email",
+  "class": "form-control",
+  placeholder: "Email",
+  required: ""
+}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
+  type: "password",
+  "class": "form-control",
+  placeholder: "Password",
+  required: ""
+}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
+  type: "submit",
+  "class": "btn btn-block btn-lg btn-gradient btn-gradient-two"
+}, "Sign Up")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "form-excerpts"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("ul", {
+  "class": "list-unstyled"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("Already a member? "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: ""
+}, "Sign In")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: ""
+}, "Recover Password")])]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "social-login"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", null, "Or Signup with"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "",
+  "class": "btn btn-outline-secondary"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("i", {
+  "class": "fab fa-facebook-f"
+}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Facebook")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "",
+  "class": "btn btn-outline-danger"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("i", {
+  "class": "fab fa-google-plus-g"
+}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Google")])])])])])])])], -1
+/* HOISTED */
+);
+
+function render(_ctx, _cache, $props, $setup, $data, $options) {
+  var _component_HeroSection = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("HeroSection");
+
+  var _component_CategoryGridSection = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("CategoryGridSection");
+
+  var _component_ListingSection = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("ListingSection");
+
+  var _component_FooterSection = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("FooterSection");
+
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("div", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_HeroSection), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_CategoryGridSection), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ListingSection), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_FooterSection), _hoisted_1, _hoisted_2]);
+}
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Sections/CategoryGridSection.vue?vue&type=template&id=392aa204&lang=true":
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Sections/CategoryGridSection.vue?vue&type=template&id=392aa204&lang=true ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* binding */ render)
+/* harmony export */ });
+/* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
+
+
+var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<section class=\"categories-cards section-padding-two\"><div class=\"container\"><div class=\"row\"><div class=\"col-lg-12\"><div class=\"section-title\"><h2>What Kind of Activity do you Want to try?</h2><p>Discover best things to do restaurants, shopping, hotels, cafes and places around the world by categories.</p></div></div></div><div class=\"row\"><div class=\"col-lg-4 col-sm-6\"><div class=\"category-single category--img\"><figure class=\"category--img4\"><img src=\"img/cat1.jpg\" alt=\"\"><figcaption class=\"overlay-bg\"><a href=\"\" class=\"cat-box\"><div><div class=\"icon\"><span class=\"la la-cutlery\"></span></div><h4 class=\"cat-name\">Restaurants</h4><span class=\"badge badge-pill badge-success\">48 Listings</span></div></a></figcaption></figure></div><!-- ends: .category-single --></div><!-- ends: .col --><div class=\"col-lg-4 col-sm-6\"><div class=\"category-single category--img\"><figure class=\"category--img4\"><img src=\"img/cat2.jpg\" alt=\"\"><figcaption class=\"overlay-bg\"><a href=\"\" class=\"cat-box\"><div><div class=\"icon\"><span class=\"la la-map-marker\"></span></div><h4 class=\"cat-name\">Places &amp; Destination</h4><span class=\"badge badge-pill badge-success\">74 Listings</span></div></a></figcaption></figure></div><!-- ends: .category-single --></div><!-- ends: .col --><div class=\"col-lg-4 col-sm-6\"><div class=\"category-single category--img\"><figure class=\"category--img4\"><img src=\"img/cat3.jpg\" alt=\"\"><figcaption class=\"overlay-bg\"><a href=\"\" class=\"cat-box\"><div><div class=\"icon\"><span class=\"la la-shopping-cart\"></span></div><h4 class=\"cat-name\">Shopping &amp; Store</h4><span class=\"badge badge-pill badge-success\">27 Listings</span></div></a></figcaption></figure></div><!-- ends: .category-single --></div><!-- ends: .col --><div class=\"col-lg-4 col-sm-6\"><div class=\"category-single category--img\"><figure class=\"category--img4\"><img src=\"img/cat4.jpg\" alt=\"\"><figcaption class=\"overlay-bg\"><a href=\"\" class=\"cat-box\"><div><div class=\"icon\"><span class=\"la la-bank\"></span></div><h4 class=\"cat-name\">Art &amp; History</h4><span class=\"badge badge-pill badge-success\">103 Listings</span></div></a></figcaption></figure></div><!-- ends: .category-single --></div><!-- ends: .col --><div class=\"col-lg-4 col-sm-6\"><div class=\"category-single category--img\"><figure class=\"category--img4\"><img src=\"img/cat5.jpg\" alt=\"\"><figcaption class=\"overlay-bg\"><a href=\"\" class=\"cat-box\"><div><div class=\"icon\"><span class=\"la la-bed\"></span></div><h4 class=\"cat-name\">Hotel &amp; Travel</h4><span class=\"badge badge-pill badge-success\">11 Listings</span></div></a></figcaption></figure></div><!-- ends: .category-single --></div><!-- ends: .col --><div class=\"col-lg-4 col-sm-6\"><div class=\"category-single category--img\"><figure class=\"category--img4\"><img src=\"img/cat6.jpg\" alt=\"\"><figcaption class=\"overlay-bg\"><a href=\"\" class=\"cat-box\"><div><div class=\"icon\"><span class=\"la la-glass\"></span></div><h4 class=\"cat-name\">Food &amp; Drink</h4><span class=\"badge badge-pill badge-success\">29 Listings</span></div></a></figcaption></figure></div><!-- ends: .category-single --></div><!-- ends: .col --></div></div></section>", 1);
+
+function render(_ctx, _cache, $props, $setup, $data, $options) {
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("div", null, [_hoisted_1, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" ends: .categories-cards ")]);
+}
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Sections/FooterSection.vue?vue&type=template&id=57af93b2&lang=true":
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Sections/FooterSection.vue?vue&type=template&id=57af93b2&lang=true ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* binding */ render)
+/* harmony export */ });
+/* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
+
+
+var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<footer class=\"footer-three footer-grey p-top-95\"><div class=\"footer-top p-bottom-25\"><div class=\"container\"><div class=\"row\"><div class=\"col-lg-2 col-sm-6\"><div class=\"widget widget_pages\"><h2 class=\"widget-title\">Company Info</h2><ul class=\"list-unstyled\"><li class=\"page-item\"><a href=\"\">About Us</a></li><li class=\"page-item\"><a href=\"\">Conact Us</a></li><li class=\"page-item\"><a href=\"\">Our Listings</a></li><li class=\"page-item\"><a href=\"\">Our Pricings</a></li><li class=\"page-item\"><a href=\"\">Support</a></li><li class=\"page-item\"><a href=\"\">Privacy Policy</a></li></ul></div></div><!-- ends: .col-lg-3 --><div class=\"col-lg-3 d-flex justify-content-lg-center col-sm-6\"><div class=\"widget widget_pages\"><h2 class=\"widget-title\">Helpful Links</h2><ul class=\"list-unstyled\"><li class=\"page-item\"><a href=\"\">Join Direo</a></li><li class=\"page-item\"><a href=\"\">Sign In</a></li><li class=\"page-item\"><a href=\"\">How it Work</a></li><li class=\"page-item\"><a href=\"\">Advantages</a></li><li class=\"page-item\"><a href=\"\">Direo App</a></li><li class=\"page-item\"><a href=\"\">Packages</a></li></ul></div></div><!-- ends: .col-lg-3 --><div class=\"col-lg-3 col-sm-6\"><div class=\"widget widget_social\"><h2 class=\"widget-title\">Connect with Us</h2><ul class=\"list-unstyled social-list\"><li><a href=\"\"><span class=\"mail\"><i class=\"la la-envelope\"></i></span> Contact Support</a></li><li><a href=\"\"><span class=\"twitter\"><i class=\"fab fa-twitter\"></i></span> Twitter</a></li><li><a href=\"\"><span class=\"facebook\"><i class=\"fab fa-facebook-f\"></i></span> Facebook</a></li><li><a href=\"\"><span class=\"instagram\"><i class=\"fab fa-instagram\"></i></span> Instagram</a></li><li><a href=\"\"><span class=\"gplus\"><i class=\"fab fa-google-plus-g\"></i></span> Google+</a></li></ul></div><!-- ends: .widget --></div><!-- ends: .col-lg-3 --><div class=\"col-lg-4 col-sm-6\"><div class=\"widget widget_text\"><h2 class=\"widget-title\">Direo on Mobile</h2><div class=\"textwidget\"><p>Download the Direo app today so you can find your events anytime, anywhere.</p><ul class=\"list-unstyled store-btns\"><li><a href=\"\" class=\"btn-gradient btn-gradient-two btn btn-md btn-icon icon-left\"><span class=\"fab fa-apple\"></span> App Store</a></li><li><a href=\"\" class=\"btn btn-dark btn-md btn-icon btn-icon\"><span class=\"fab fa-android\"></span> Google Play</a></li></ul></div></div><!-- ends: .widget --></div><!-- ends: .col-lg-3 --></div></div></div><!-- ends: .footer-top --><div class=\"footer-bottom\"><div class=\"container\"><div class=\"row\"><div class=\"col-lg-12\"><div class=\"footer-bottom--content\"><a href=\"\" class=\"footer-logo\"><img src=\"img/logo.png\" alt=\"\"></a><p class=\"m-0 copy-text\">©2019 Direo. Made with <span class=\"la la-heart-o\"></span> by <a href=\"\">Aazztech</a></p><ul class=\"list-unstyled lng-list\"><li><a href=\"\">English</a></li></ul></div></div></div></div></div><!-- ends: .footer-bottom --></footer>", 1);
+
+function render(_ctx, _cache, $props, $setup, $data, $options) {
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("div", null, [_hoisted_1, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" ends: .footer ")]);
+}
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Sections/HeroSection.vue?vue&type=template&id=0f8f30b0&lang=true":
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Sections/HeroSection.vue?vue&type=template&id=0f8f30b0&lang=true ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -21463,171 +21757,30 @@ var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
 /* HOISTED */
 );
 
-var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<section class=\"categories-cards section-padding-two\"><div class=\"container\"><div class=\"row\"><div class=\"col-lg-12\"><div class=\"section-title\"><h2>What Kind of Activity do you Want to try?</h2><p>Discover best things to do restaurants, shopping, hotels, cafes and places around the world by categories.</p></div></div></div><div class=\"row\"><div class=\"col-lg-4 col-sm-6\"><div class=\"category-single category--img\"><figure class=\"category--img4\"><img src=\"img/cat1.jpg\" alt=\"\"><figcaption class=\"overlay-bg\"><a href=\"\" class=\"cat-box\"><div><div class=\"icon\"><span class=\"la la-cutlery\"></span></div><h4 class=\"cat-name\">Restaurants</h4><span class=\"badge badge-pill badge-success\">48 Listings</span></div></a></figcaption></figure></div><!-- ends: .category-single --></div><!-- ends: .col --><div class=\"col-lg-4 col-sm-6\"><div class=\"category-single category--img\"><figure class=\"category--img4\"><img src=\"img/cat2.jpg\" alt=\"\"><figcaption class=\"overlay-bg\"><a href=\"\" class=\"cat-box\"><div><div class=\"icon\"><span class=\"la la-map-marker\"></span></div><h4 class=\"cat-name\">Places &amp; Destination</h4><span class=\"badge badge-pill badge-success\">74 Listings</span></div></a></figcaption></figure></div><!-- ends: .category-single --></div><!-- ends: .col --><div class=\"col-lg-4 col-sm-6\"><div class=\"category-single category--img\"><figure class=\"category--img4\"><img src=\"img/cat3.jpg\" alt=\"\"><figcaption class=\"overlay-bg\"><a href=\"\" class=\"cat-box\"><div><div class=\"icon\"><span class=\"la la-shopping-cart\"></span></div><h4 class=\"cat-name\">Shopping &amp; Store</h4><span class=\"badge badge-pill badge-success\">27 Listings</span></div></a></figcaption></figure></div><!-- ends: .category-single --></div><!-- ends: .col --><div class=\"col-lg-4 col-sm-6\"><div class=\"category-single category--img\"><figure class=\"category--img4\"><img src=\"img/cat4.jpg\" alt=\"\"><figcaption class=\"overlay-bg\"><a href=\"\" class=\"cat-box\"><div><div class=\"icon\"><span class=\"la la-bank\"></span></div><h4 class=\"cat-name\">Art &amp; History</h4><span class=\"badge badge-pill badge-success\">103 Listings</span></div></a></figcaption></figure></div><!-- ends: .category-single --></div><!-- ends: .col --><div class=\"col-lg-4 col-sm-6\"><div class=\"category-single category--img\"><figure class=\"category--img4\"><img src=\"img/cat5.jpg\" alt=\"\"><figcaption class=\"overlay-bg\"><a href=\"\" class=\"cat-box\"><div><div class=\"icon\"><span class=\"la la-bed\"></span></div><h4 class=\"cat-name\">Hotel &amp; Travel</h4><span class=\"badge badge-pill badge-success\">11 Listings</span></div></a></figcaption></figure></div><!-- ends: .category-single --></div><!-- ends: .col --><div class=\"col-lg-4 col-sm-6\"><div class=\"category-single category--img\"><figure class=\"category--img4\"><img src=\"img/cat6.jpg\" alt=\"\"><figcaption class=\"overlay-bg\"><a href=\"\" class=\"cat-box\"><div><div class=\"icon\"><span class=\"la la-glass\"></span></div><h4 class=\"cat-name\">Food &amp; Drink</h4><span class=\"badge badge-pill badge-success\">29 Listings</span></div></a></figcaption></figure></div><!-- ends: .category-single --></div><!-- ends: .col --></div></div></section>", 1);
+function render(_ctx, _cache, $props, $setup, $data, $options) {
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("div", null, [_hoisted_1, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" ends: .intro-wrapper ")]);
+}
 
-var _hoisted_3 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<section class=\"listing-cards section-bg section-padding\"><div class=\"container\"><div class=\"row\"><div class=\"col-lg-12\"><div class=\"section-title\"><h2>Best Listings Around the World</h2><p>Explore the popular listings around the world</p></div></div><div class=\"listing-cards-wrapper col-lg-12\"><div class=\"row\"><div class=\"col-lg-4 col-sm-6\"><div class=\"atbd_single_listing\"><article class=\"atbd_single_listing_wrapper\"><figure class=\"atbd_listing_thumbnail_area\"><div class=\"atbd_listing_image\"><a href=\"\"><img src=\"img/p1.jpg\" alt=\"listing image\"></a></div><!-- ends: .atbd_listing_image --><div class=\"atbd_author atbd_author--thumb\"><a href=\"\"><img src=\"img/author-thumb2.jpg\" alt=\"Author Image\"><span class=\"custom-tooltip\">Jeffery A, Owner</span></a></div><div class=\"atbd_thumbnail_overlay_content\"><ul class=\"atbd_upper_badge\"><li><span class=\"atbd_badge atbd_badge_featured\">Featured</span></li></ul><!-- ends .atbd_upper_badge --></div><!-- ends: .atbd_thumbnail_overlay_content --></figure><!-- ends: .atbd_listing_thumbnail_area --><div class=\"atbd_listing_info\"><div class=\"atbd_content_upper\"><h4 class=\"atbd_listing_title\"><a href=\"\">Flanders Heat &amp; Air Systems</a></h4><div class=\"atbd_listing_meta\"><span class=\"atbd_meta atbd_listing_rating\">4.5<i class=\"la la-star\"></i></span><span class=\"atbd_meta atbd_listing_price\">$55.00</span><span class=\"atbd_meta atbd_badge_open\">Open Now</span></div><!-- End atbd listing meta --><div class=\"atbd_listing_data_list\"><ul><li><p><span class=\"la la-map-marker\"></span>Los Angeles, United States</p></li><li><p><span class=\"la la-phone\"></span>(415) 796-3633</p></li><li><p><span class=\"la la-calendar-check-o\"></span>Posted 2 months ago</p></li></ul></div><!-- End atbd listing meta --></div><!-- end .atbd_content_upper --><div class=\"atbd_listing_bottom_content\"><div class=\"atbd_content_left\"><div class=\"atbd_listing_category\"><a href=\"\"><span class=\"la la-glass\"></span>Restaurant</a></div></div><ul class=\"atbd_content_right\"><li class=\"atbd_count\"><span class=\"la la-eye\"></span>900+</li><li class=\"atbd_save\"><span class=\"la la-heart-o\"></span></li></ul></div><!-- end .atbd_listing_bottom_content --></div><!-- ends: .atbd_listing_info --></article><!-- atbd_single_listing_wrapper --></div></div><!-- ends: .col-lg-4 --><div class=\"col-lg-4 col-sm-6\"><div class=\"atbd_single_listing\"><article class=\"atbd_single_listing_wrapper\"><figure class=\"atbd_listing_thumbnail_area\"><div class=\"atbd_listing_image\"><a href=\"\"><img src=\"img/p2.jpg\" alt=\"listing image\"></a></div><!-- ends: .atbd_listing_image --><div class=\"atbd_author atbd_author--thumb\"><a href=\"\"><img src=\"img/author-thumb2.jpg\" alt=\"Author Image\"><span class=\"custom-tooltip\">Jeffery A, Owner</span></a></div><div class=\"atbd_thumbnail_overlay_content\"><ul class=\"atbd_upper_badge\"><li><span class=\"atbd_badge atbd_badge_popular\">Popular</span></li></ul><!-- ends .atbd_upper_badge --></div><!-- ends: .atbd_thumbnail_overlay_content --></figure><!-- ends: .atbd_listing_thumbnail_area --><div class=\"atbd_listing_info\"><div class=\"atbd_content_upper\"><h4 class=\"atbd_listing_title\"><a href=\"\">Sydney Restaurant Towers</a></h4><div class=\"atbd_listing_meta\"><span class=\"atbd_meta atbd_listing_rating\">4.5<i class=\"la la-star\"></i></span><span class=\"atbd_meta atbd_listing_average_pricing\" data-toggle=\"tooltip\" data-placement=\"top\" title=\"\" data-original-title=\"Average\"><span class=\"atbd_active\"><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span><span class=\"atbd_active\"><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span><span><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span><span><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span></span><span class=\"atbd_meta atbd_badge_close\">Closed</span></div><!-- End atbd listing meta --><div class=\"atbd_listing_data_list\"><ul><li><p><span class=\"la la-map-marker\"></span>Los Angeles, United States</p></li><li><p><span class=\"la la-phone\"></span>(415) 796-3633</p></li><li><p><span class=\"la la-calendar-check-o\"></span>Posted 2 months ago</p></li></ul></div><!-- End atbd listing meta --></div><!-- end .atbd_content_upper --><div class=\"atbd_listing_bottom_content\"><div class=\"atbd_content_left\"><div class=\"atbd_listing_category\"><a href=\"\"><span class=\"la la-map-marker\"></span>Places</a><div class=\"atbd_cat_popup\"><span>+2</span><div class=\"atbd_cat_popup_wrapper\"><span><a href=\"\">Event</a></span><span><a href=\"\">Food</a></span></div></div></div></div><ul class=\"atbd_content_right\"><li class=\"atbd_count\"><span class=\"la la-eye\"></span>900+</li><li class=\"atbd_save\"><span class=\"la la-heart-o\"></span></li></ul></div><!-- end .atbd_listing_bottom_content --></div><!-- ends: .atbd_listing_info --></article><!-- atbd_single_listing_wrapper --></div></div><!-- ends: .col-lg-4 --><div class=\"col-lg-4 col-sm-6\"><div class=\"atbd_single_listing\"><article class=\"atbd_single_listing_wrapper\"><figure class=\"atbd_listing_thumbnail_area\"><div class=\"atbd_listing_image\"><a href=\"\"><img src=\"img/p3.jpg\" alt=\"listing image\"></a></div><!-- ends: .atbd_listing_image --><div class=\"atbd_author atbd_author--thumb\"><a href=\"\"><img src=\"img/author-thumb2.jpg\" alt=\"Author Image\"><span class=\"custom-tooltip\">Jeffery A, Owner</span></a></div><div class=\"atbd_thumbnail_overlay_content\"><ul class=\"atbd_upper_badge\"><li><span class=\"atbd_badge atbd_badge_new\">New</span></li></ul><!-- ends .atbd_upper_badge --></div><!-- ends: .atbd_thumbnail_overlay_content --></figure><!-- ends: .atbd_listing_thumbnail_area --><div class=\"atbd_listing_info\"><div class=\"atbd_content_upper\"><h4 class=\"atbd_listing_title\"><a href=\"\">Kung Food &amp; Drinks</a></h4><div class=\"atbd_listing_meta\"><span class=\"atbd_meta atbd_listing_rating\">4.5<i class=\"la la-star\"></i></span><span class=\"atbd_meta atbd_listing_average_pricing\" data-toggle=\"tooltip\" data-placement=\"top\" title=\"\" data-original-title=\"Average\"><span class=\"atbd_active\"><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span><span class=\"atbd_active\"><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span><span><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span><span><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span></span><span class=\"atbd_meta atbd_badge_close\">Closed</span></div><!-- End atbd listing meta --><div class=\"atbd_listing_data_list\"><ul><li><p><span class=\"la la-map-marker\"></span>Los Angeles, United States</p></li><li><p><span class=\"la la-phone\"></span>(415) 796-3633</p></li><li><p><span class=\"la la-calendar-check-o\"></span>Posted 2 months ago</p></li></ul></div><!-- End atbd listing meta --></div><!-- end .atbd_content_upper --><div class=\"atbd_listing_bottom_content\"><div class=\"atbd_content_left\"><div class=\"atbd_listing_category\"><a href=\"\"><span class=\"la la-shopping-cart\"></span>Shopping</a></div></div><ul class=\"atbd_content_right\"><li class=\"atbd_count\"><span class=\"la la-eye\"></span>900+</li><li class=\"atbd_save\"><span class=\"la la-heart-o\"></span></li></ul></div><!-- end .atbd_listing_bottom_content --></div><!-- ends: .atbd_listing_info --></article><!-- atbd_single_listing_wrapper --></div></div><!-- ends: .col-lg-4 --><div class=\"col-lg-4 col-sm-6\"><div class=\"atbd_single_listing\"><article class=\"atbd_single_listing_wrapper\"><figure class=\"atbd_listing_thumbnail_area\"><div class=\"atbd_listing_image\"><a href=\"\"><img src=\"img/p4.jpg\" alt=\"listing image\"></a></div><!-- ends: .atbd_listing_image --><div class=\"atbd_author atbd_author--thumb\"><a href=\"\"><img src=\"img/author-thumb2.jpg\" alt=\"Author Image\"><span class=\"custom-tooltip\">Jeffery A, Owner</span></a></div><div class=\"atbd_thumbnail_overlay_content\"><ul class=\"atbd_upper_badge\"><li><span class=\"atbd_badge atbd_badge_featured\">Featured</span></li><li><span class=\"atbd_badge atbd_badge_popular\">Popular</span></li></ul><!-- ends .atbd_upper_badge --></div><!-- ends: .atbd_thumbnail_overlay_content --></figure><!-- ends: .atbd_listing_thumbnail_area --><div class=\"atbd_listing_info\"><div class=\"atbd_content_upper\"><h4 class=\"atbd_listing_title\"><a href=\"\">Favorite Place Fog Bank</a></h4><div class=\"atbd_listing_meta\"><span class=\"atbd_meta atbd_listing_rating\">4.5<i class=\"la la-star\"></i></span><span class=\"atbd_meta atbd_listing_average_pricing\" data-toggle=\"tooltip\" data-placement=\"top\" title=\"\" data-original-title=\"Average\"><span class=\"atbd_active\"><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span><span class=\"atbd_active\"><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span><span><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span><span><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span></span><span class=\"atbd_meta atbd_badge_open\">Open Now</span></div><!-- End atbd listing meta --><div class=\"atbd_listing_data_list\"><ul><li><p><span class=\"la la-map-marker\"></span>Los Angeles, United States</p></li><li><p><span class=\"la la-phone\"></span>(415) 796-3633</p></li><li><p><span class=\"la la-calendar-check-o\"></span>Posted 2 months ago</p></li></ul></div><!-- End atbd listing meta --></div><!-- end .atbd_content_upper --><div class=\"atbd_listing_bottom_content\"><div class=\"atbd_content_left\"><div class=\"atbd_listing_category\"><a href=\"\"><span class=\"la la-bank\"></span>Art &amp; History</a></div></div><ul class=\"atbd_content_right\"><li class=\"atbd_count\"><span class=\"la la-eye\"></span>900+</li><li class=\"atbd_save\"><span class=\"la la-heart-o\"></span></li></ul></div><!-- end .atbd_listing_bottom_content --></div><!-- ends: .atbd_listing_info --></article><!-- atbd_single_listing_wrapper --></div></div><!-- ends: .col-lg-4 --><div class=\"col-lg-4 col-sm-6\"><div class=\"atbd_single_listing\"><article class=\"atbd_single_listing_wrapper\"><figure class=\"atbd_listing_thumbnail_area\"><div class=\"atbd_listing_image\"><a href=\"\"><img src=\"img/p5.jpg\" alt=\"listing image\"></a></div><!-- ends: .atbd_listing_image --><div class=\"atbd_author atbd_author--thumb\"><a href=\"\"><img src=\"img/author-thumb2.jpg\" alt=\"Author Image\"><span class=\"custom-tooltip\">Jeffery A, Owner</span></a></div><div class=\"atbd_thumbnail_overlay_content\"><ul class=\"atbd_upper_badge\"></ul><!-- ends .atbd_upper_badge --></div><!-- ends: .atbd_thumbnail_overlay_content --></figure><!-- ends: .atbd_listing_thumbnail_area --><div class=\"atbd_listing_info\"><div class=\"atbd_content_upper\"><h4 class=\"atbd_listing_title\"><a href=\"\">Flanders Heat &amp; Air Systems</a></h4><div class=\"atbd_listing_meta\"><span class=\"atbd_meta atbd_listing_rating\">4.5<i class=\"la la-star\"></i></span><span class=\"atbd_meta atbd_listing_price\">$55.00</span><span class=\"atbd_meta atbd_badge_close\">Closed</span></div><!-- End atbd listing meta --><div class=\"atbd_listing_data_list\"><ul><li><p><span class=\"la la-map-marker\"></span>Los Angeles, United States</p></li><li><p><span class=\"la la-phone\"></span>(415) 796-3633</p></li><li><p><span class=\"la la-calendar-check-o\"></span>Posted 2 months ago</p></li></ul></div><!-- End atbd listing meta --></div><!-- end .atbd_content_upper --><div class=\"atbd_listing_bottom_content\"><div class=\"atbd_content_left\"><div class=\"atbd_listing_category\"><a href=\"\"><span class=\"la la-bed\"></span>Hotel &amp; Travel</a></div></div><ul class=\"atbd_content_right\"><li class=\"atbd_count\"><span class=\"la la-eye\"></span>900+</li><li class=\"atbd_save\"><span class=\"la la-heart-o\"></span></li></ul></div><!-- end .atbd_listing_bottom_content --></div><!-- ends: .atbd_listing_info --></article><!-- atbd_single_listing_wrapper --></div></div><!-- ends: .col-lg-4 --><div class=\"col-lg-4 col-sm-6\"><div class=\"atbd_single_listing\"><article class=\"atbd_single_listing_wrapper\"><figure class=\"atbd_listing_thumbnail_area\"><div class=\"atbd_listing_image\"><a href=\"\"><img src=\"img/p6.jpg\" alt=\"listing image\"></a></div><!-- ends: .atbd_listing_image --><div class=\"atbd_author atbd_author--thumb\"><a href=\"\"><img src=\"img/author-thumb2.jpg\" alt=\"Author Image\"><span class=\"custom-tooltip\">Jeffery A, Owner</span></a></div><div class=\"atbd_thumbnail_overlay_content\"><ul class=\"atbd_upper_badge\"></ul><!-- ends .atbd_upper_badge --></div><!-- ends: .atbd_thumbnail_overlay_content --></figure><!-- ends: .atbd_listing_thumbnail_area --><div class=\"atbd_listing_info\"><div class=\"atbd_content_upper\"><h4 class=\"atbd_listing_title\"><a href=\"\">Store Clothing Shopping Mall</a></h4><div class=\"atbd_listing_meta\"><span class=\"atbd_meta atbd_listing_rating\">4.5<i class=\"la la-star\"></i></span><span class=\"atbd_meta atbd_listing_average_pricing\" data-toggle=\"tooltip\" data-placement=\"top\" title=\"\" data-original-title=\"Average\"><span class=\"atbd_active\"><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span><span class=\"atbd_active\"><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span><span><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span><span><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span></span><span class=\"atbd_meta atbd_badge_open\">Open Now</span></div><!-- End atbd listing meta --><div class=\"atbd_listing_data_list\"><ul><li><p><span class=\"la la-map-marker\"></span>Los Angeles, United States</p></li><li><p><span class=\"la la-phone\"></span>(415) 796-3633</p></li><li><p><span class=\"la la-calendar-check-o\"></span>Posted 2 months ago</p></li></ul></div><!-- End atbd listing meta --></div><!-- end .atbd_content_upper --><div class=\"atbd_listing_bottom_content\"><div class=\"atbd_content_left\"><div class=\"atbd_listing_category\"><a href=\"\"><span class=\"la la-cutlery\"></span>Food &amp; Drink</a><div class=\"atbd_cat_popup\"><span>+2</span><div class=\"atbd_cat_popup_wrapper\"><span><a href=\"\">Event</a></span><span><a href=\"\">Food</a></span></div></div></div></div><ul class=\"atbd_content_right\"><li class=\"atbd_count\"><span class=\"la la-eye\"></span>900+</li><li class=\"atbd_save\"><span class=\"la la-heart-o\"></span></li></ul></div><!-- end .atbd_listing_bottom_content --></div><!-- ends: .atbd_listing_info --></article><!-- atbd_single_listing_wrapper --></div></div><!-- ends: .col-lg-4 --><div class=\"col-lg-12 text-center m-top-20\"><a href=\"\" class=\"btn btn-gradient btn-gradient-two\">Explore All 200+</a></div></div></div><!-- ends: .listing-cards-wrapper --></div></div></section>", 1);
+/***/ }),
 
-var _hoisted_4 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<section class=\"cta section-padding border-bottom\"><div class=\"container\"><div class=\"row\"><div class=\"col-lg-12\"><div class=\"section-title\"><h2>Why <span>Direo</span> for your Business?</h2><p>Explore the popular listings around the world</p></div></div><div class=\"col-lg-12\"><div class=\"row align-items-center\"><div class=\"col-lg-6 col-md-6\"><img src=\"img/svg/illustration-1.svg\" alt=\"\" class=\"svg\"></div><div class=\"col-lg-5 offset-lg-1 col-md-6 mt-5 mt-md-0\"><ul class=\"feature-list-wrapper list-unstyled\"><li><div class=\"icon\"><span class=\"circle-secondary\"><i class=\"la la-check-circle\"></i></span></div><div class=\"list-content\"><h4>Claim Listing</h4><p>Excepteur sint occaecat cupidatat non proident sunt in culpa officia deserunt mollit.</p></div></li><li><div class=\"icon\"><span class=\"circle-success\"><i class=\"la la-money\"></i></span></div><div class=\"list-content\"><h4>Paid Listing</h4><p>Excepteur sint occaecat cupidatat non proident sunt in culpa officia deserunt mollit.</p></div></li><li><div class=\"icon\"><span class=\"circle-primary\"><i class=\"la la-line-chart\"></i></span></div><div class=\"list-content\"><h4>Promote your Business</h4><p>Excepteur sint occaecat cupidatat non proident sunt in culpa officia deserunt mollit.</p></div></li></ul><!-- ends: .feature-list-wrapper --><ul class=\"action-btns list-unstyled\"><li><a href=\"\" class=\"btn btn-success\">See our Pricing</a></li><li><a href=\"\" class=\"btn btn-primary\">Submit Listings</a></li></ul></div></div></div></div></div></section>", 1);
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Sections/ListingSection.vue?vue&type=template&id=2c3696b4&lang=true":
+/*!********************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Sections/ListingSection.vue?vue&type=template&id=2c3696b4&lang=true ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-var _hoisted_5 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<section class=\"places section-padding\"><div class=\"container\"><div class=\"row\"><div class=\"col-lg-12\"><div class=\"section-title\"><h2>Destination We Love</h2><p>Explore best listings around the world by city</p></div></div><div class=\"col-lg-12\"><div class=\"cat-places-wrapper\"><div class=\"category-place-single\"><figure><a href=\"\"><img src=\"img/place1.jpg\" alt=\"\"></a><figcaption><h3>London, UK</h3><p>68 Listings</p></figcaption></figure></div><!-- ends: .category-place-single --><div class=\"category-place-single\"><figure><a href=\"\"><img src=\"img/place2.png\" alt=\"\"></a><figcaption><h3>New York</h3><p>68 Listings</p></figcaption></figure></div><!-- ends: .category-place-single --><div class=\"category-place-single\"><figure><a href=\"\"><img src=\"img/place3.png\" alt=\"\"></a><figcaption><h3>Sydney</h3><p>68 Listings</p></figcaption></figure></div><!-- ends: .category-place-single --><div class=\"category-place-single\"><figure><a href=\"\"><img src=\"img/place4.png\" alt=\"\"></a><figcaption><h3>Paris, France</h3><p>68 Listings</p></figcaption></figure></div><!-- ends: .category-place-single --></div><!-- ends: .col-lg-12 --></div><div class=\"col-lg-12\"><div class=\"place-list-wrapper\"><ul class=\"list-unstyled\"><li><a href=\"\">Dubai (45)</a></li><li><a href=\"\">Melbourne (95)</a></li><li><a href=\"\">Sydney (90)</a></li><li><a href=\"\">Brisbane (73)</a></li><li><a href=\"\">Perth (97)</a></li><li><a href=\"\">Toronto (960)</a></li><li><a href=\"\">Vancouver (46)</a></li><li><a href=\"\">Montreal (46)</a></li><li><a href=\"\">Calgary (16)</a></li><li><a href=\"\">Edmonton (6)</a></li><li><a href=\"\">Ottawa (53)</a></li><li><a href=\"\">Atlantic Canada (83)</a></li><li><a href=\"\">Berlin (71)</a></li><li><a href=\"\">Munich (46)</a></li><li><a href=\"\">Hamburg Area (727)</a></li><li><a href=\"\">Frankfurt Area (655)</a></li><li><a href=\"\">Stuttgart Area (9)</a></li><li><a href=\"\">Barcelona (46)</a></li><li><a href=\"\">Madrid (790)</a></li><li><a href=\"\">Spain (52)</a></li><li><a href=\"\">Dublin (657)</a></li><li><a href=\"\">Galway (12)</a></li><li><a href=\"\">Limerick (6)</a></li><li><a href=\"\">Tokyo, JP (24)</a></li><li><a href=\"\">Kanagawa (276)</a></li><li><a href=\"\">Osaka (146)</a></li><li><a href=\"\">Kyoto (70)</a></li><li><a href=\"\">Nagoya (64)</a></li><li><a href=\"\">Mexico City (195)</a></li><li><a href=\"\">Cancun (328)</a></li><li><a href=\"\">Monterrey (27)</a></li><li><a href=\"\">Baja California Sur (42)</a></li><li><a href=\"\">Amsterdam (446)</a></li><li><a href=\"\">Maastricht (3)</a></li><li><a href=\"\">London (25)</a></li><li><a href=\"\">Yorkshire (967)</a></li><li><a href=\"\">Edinburgh (923)</a></li><li><a href=\"\">Kent (80)</a></li><li><a href=\"\">Manchester (60)</a></li><li><a href=\"\">Glasgow (52)</a></li></ul></div></div></div></div></section>", 1);
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* binding */ render)
+/* harmony export */ });
+/* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
 
-var _hoisted_6 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<section class=\"testimonial-wrapper section-padding--bottom\"><div class=\"container\"><div class=\"row\"><div class=\"col-lg-12\"><div class=\"section-title\"><h2>Trusted By Over 4000+ Users</h2><p>Here is what people say about Direo</p></div></div><!-- ends: .col-lg-12 --><div class=\"testimonial-carousel owl-carousel\"><div class=\"carousel-single\"><div class=\"author-thumb\"><img src=\"img/tthumb1.jpg\" alt=\"\" class=\"rounded-circle\"></div><div class=\"author-info\"><h4>Francis Burton</h4><span>Toronto, Canada</span></div><p class=\"author-comment\">Excepteur sint occaecat cupidatat non proident sunt in culpa officia deserunt mollit anim laborum sint occaecat cupidatat non proident. Occaecat cupidatat non proident culpa officia deserunt mollit.</p></div><!-- ends: .carousel-single --><div class=\"carousel-single\"><div class=\"author-thumb\"><img src=\"img/tthumb1.jpg\" alt=\"\" class=\"rounded-circle\"></div><div class=\"author-info\"><h4>Francis Burton</h4><span>Toronto, Canada</span></div><p class=\"author-comment\">Excepteur sint occaecat cupidatat non proident sunt in culpa officia deserunt mollit anim laborum sint occaecat cupidatat non proident. Occaecat cupidatat non proident culpa officia deserunt mollit.</p></div><!-- ends: .carousel-single --><div class=\"carousel-single\"><div class=\"author-thumb\"><img src=\"img/tthumb1.jpg\" alt=\"\" class=\"rounded-circle\"></div><div class=\"author-info\"><h4>Francis Burton</h4><span>Toronto, Canada</span></div><p class=\"author-comment\">Excepteur sint occaecat cupidatat non proident sunt in culpa officia deserunt mollit anim laborum sint occaecat cupidatat non proident. Occaecat cupidatat non proident culpa officia deserunt mollit.</p></div><!-- ends: .carousel-single --></div><!-- ends: .testimonial-carousel --></div></div></section>", 1);
 
-var _hoisted_7 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<section class=\"clients-logo-wrapper border-top p-top-100\"><div class=\"container\"><div class=\"row\"><div class=\"col-lg-12\"><div class=\"logo-carousel owl-carousel\"><div class=\"carousel-single\"><img src=\"img/cl1.png\" alt=\"\"></div><div class=\"carousel-single\"><img src=\"img/cl2.png\" alt=\"\"></div><div class=\"carousel-single\"><img src=\"img/cl3.png\" alt=\"\"></div><div class=\"carousel-single\"><img src=\"img/cl4.png\" alt=\"\"></div><div class=\"carousel-single\"><img src=\"img/cl5.png\" alt=\"\"></div><div class=\"carousel-single\"><img src=\"img/cl1.png\" alt=\"\"></div></div><!-- ends: .logo-carousel --></div></div></div></section>", 1);
-
-var _hoisted_8 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<section class=\"subscribe-wrapper\"><div class=\"container\"><div class=\"row\"><div class=\"col-md-8 offset-md-2\"><h1>Subscribe to Newsletter</h1><p>Subscribe to get update and information. Don&#39;t worry, we won&#39;t send spam!</p><form action=\"/\" class=\"subscribe-form m-top-40\"><div class=\"form-group\"><span class=\"la la-envelope-o\"></span><input type=\"text\" placeholder=\"Enter your email\" required></div><button class=\"btn btn-gradient btn-gradient-one\">Submit</button></form></div></div></div></section>", 1);
-
-var _hoisted_9 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<footer class=\"footer-three footer-grey p-top-95\"><div class=\"footer-top p-bottom-25\"><div class=\"container\"><div class=\"row\"><div class=\"col-lg-2 col-sm-6\"><div class=\"widget widget_pages\"><h2 class=\"widget-title\">Company Info</h2><ul class=\"list-unstyled\"><li class=\"page-item\"><a href=\"\">About Us</a></li><li class=\"page-item\"><a href=\"\">Conact Us</a></li><li class=\"page-item\"><a href=\"\">Our Listings</a></li><li class=\"page-item\"><a href=\"\">Our Pricings</a></li><li class=\"page-item\"><a href=\"\">Support</a></li><li class=\"page-item\"><a href=\"\">Privacy Policy</a></li></ul></div></div><!-- ends: .col-lg-3 --><div class=\"col-lg-3 d-flex justify-content-lg-center col-sm-6\"><div class=\"widget widget_pages\"><h2 class=\"widget-title\">Helpful Links</h2><ul class=\"list-unstyled\"><li class=\"page-item\"><a href=\"\">Join Direo</a></li><li class=\"page-item\"><a href=\"\">Sign In</a></li><li class=\"page-item\"><a href=\"\">How it Work</a></li><li class=\"page-item\"><a href=\"\">Advantages</a></li><li class=\"page-item\"><a href=\"\">Direo App</a></li><li class=\"page-item\"><a href=\"\">Packages</a></li></ul></div></div><!-- ends: .col-lg-3 --><div class=\"col-lg-3 col-sm-6\"><div class=\"widget widget_social\"><h2 class=\"widget-title\">Connect with Us</h2><ul class=\"list-unstyled social-list\"><li><a href=\"\"><span class=\"mail\"><i class=\"la la-envelope\"></i></span> Contact Support</a></li><li><a href=\"\"><span class=\"twitter\"><i class=\"fab fa-twitter\"></i></span> Twitter</a></li><li><a href=\"\"><span class=\"facebook\"><i class=\"fab fa-facebook-f\"></i></span> Facebook</a></li><li><a href=\"\"><span class=\"instagram\"><i class=\"fab fa-instagram\"></i></span> Instagram</a></li><li><a href=\"\"><span class=\"gplus\"><i class=\"fab fa-google-plus-g\"></i></span> Google+</a></li></ul></div><!-- ends: .widget --></div><!-- ends: .col-lg-3 --><div class=\"col-lg-4 col-sm-6\"><div class=\"widget widget_text\"><h2 class=\"widget-title\">Direo on Mobile</h2><div class=\"textwidget\"><p>Download the Direo app today so you can find your events anytime, anywhere.</p><ul class=\"list-unstyled store-btns\"><li><a href=\"\" class=\"btn-gradient btn-gradient-two btn btn-md btn-icon icon-left\"><span class=\"fab fa-apple\"></span> App Store</a></li><li><a href=\"\" class=\"btn btn-dark btn-md btn-icon btn-icon\"><span class=\"fab fa-android\"></span> Google Play</a></li></ul></div></div><!-- ends: .widget --></div><!-- ends: .col-lg-3 --></div></div></div><!-- ends: .footer-top --><div class=\"footer-bottom\"><div class=\"container\"><div class=\"row\"><div class=\"col-lg-12\"><div class=\"footer-bottom--content\"><a href=\"\" class=\"footer-logo\"><img src=\"img/logo.png\" alt=\"\"></a><p class=\"m-0 copy-text\">©2019 Direo. Made with <span class=\"la la-heart-o\"></span> by <a href=\"\">Aazztech</a></p><ul class=\"list-unstyled lng-list\"><li><a href=\"\">English</a></li></ul></div></div></div></div></div><!-- ends: .footer-bottom --></footer>", 1);
-
-var _hoisted_10 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-  "class": "modal fade",
-  id: "login_modal",
-  tabindex: "-1",
-  role: "dialog",
-  "aria-labelledby": "login_modal_label",
-  "aria-hidden": "true"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-  "class": "modal-dialog modal-dialog-centered",
-  role: "document"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-  "class": "modal-content"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-  "class": "modal-header"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
-  "class": "modal-title",
-  id: "login_modal_label"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("i", {
-  "class": "la la-lock"
-}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Sign In")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
-  type: "button",
-  "class": "close",
-  "data-dismiss": "modal",
-  "aria-label": "Close"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
-  "aria-hidden": "true"
-}, "×")])]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-  "class": "modal-body"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("form", {
-  action: "/",
-  id: "login-form"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
-  type: "text",
-  "class": "form-control",
-  placeholder: "Username or Email",
-  required: ""
-}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
-  type: "password",
-  "class": "form-control",
-  placeholder: "Password",
-  required: ""
-}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-  "class": "keep_signed custom-control custom-checkbox checkbox-outline checkbox-outline-primary"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
-  type: "checkbox",
-  "class": "custom-control-input",
-  name: "keep_signed_in",
-  value: "1",
-  id: "keep_signed_in"
-}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("label", {
-  "for": "keep_signed_in",
-  "class": "not_empty custom-control-label"
-}, "Keep me signed in")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
-  type: "submit",
-  "class": "btn btn-block btn-lg btn-gradient btn-gradient-two"
-}, "Sign In")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-  "class": "form-excerpts"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("ul", {
-  "class": "list-unstyled"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("Not a member? "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
-  href: ""
-}, "Sign up")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
-  href: ""
-}, "Recover Password")])]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-  "class": "social-login"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", null, "Or connect with"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
-  href: "",
-  "class": "btn btn-outline-secondary"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("i", {
-  "class": "fab fa-facebook-f"
-}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Facebook")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
-  href: "",
-  "class": "btn btn-outline-danger"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("i", {
-  "class": "fab fa-google-plus-g"
-}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Google")])])])])])])])], -1
-/* HOISTED */
-);
-
-var _hoisted_11 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-  "class": "modal fade",
-  id: "signup_modal",
-  tabindex: "-1",
-  role: "dialog",
-  "aria-labelledby": "signup_modal_label",
-  "aria-hidden": "true"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-  "class": "modal-dialog modal-dialog-centered",
-  role: "document"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-  "class": "modal-content"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-  "class": "modal-header"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
-  "class": "modal-title",
-  id: "signup_modal_label"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("i", {
-  "class": "la la-lock"
-}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Sign Up")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
-  type: "button",
-  "class": "close",
-  "data-dismiss": "modal",
-  "aria-label": "Close"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
-  "aria-hidden": "true"
-}, "×")])]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-  "class": "modal-body"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("form", {
-  action: "/",
-  id: "signup-form"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
-  type: "email",
-  "class": "form-control",
-  placeholder: "Email",
-  required: ""
-}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
-  type: "password",
-  "class": "form-control",
-  placeholder: "Password",
-  required: ""
-}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
-  type: "submit",
-  "class": "btn btn-block btn-lg btn-gradient btn-gradient-two"
-}, "Sign Up")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-  "class": "form-excerpts"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("ul", {
-  "class": "list-unstyled"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("Already a member? "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
-  href: ""
-}, "Sign In")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
-  href: ""
-}, "Recover Password")])]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-  "class": "social-login"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", null, "Or Signup with"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
-  href: "",
-  "class": "btn btn-outline-secondary"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("i", {
-  "class": "fab fa-facebook-f"
-}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Facebook")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
-  href: "",
-  "class": "btn btn-outline-danger"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("i", {
-  "class": "fab fa-google-plus-g"
-}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Google")])])])])])])])], -1
-/* HOISTED */
-);
+var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<section class=\"listing-cards section-bg section-padding\"><div class=\"container\"><div class=\"row\"><div class=\"col-lg-12\"><div class=\"section-title\"><h2>Best Listings Around the World</h2><p>Explore the popular listings around the world</p></div></div><div class=\"listing-cards-wrapper col-lg-12\"><div class=\"row\"><div class=\"col-lg-4 col-sm-6\"><div class=\"atbd_single_listing\"><article class=\"atbd_single_listing_wrapper\"><figure class=\"atbd_listing_thumbnail_area\"><div class=\"atbd_listing_image\"><a href=\"\"><img src=\"img/p1.jpg\" alt=\"listing image\"></a></div><!-- ends: .atbd_listing_image --><div class=\"atbd_author atbd_author--thumb\"><a href=\"\"><img src=\"img/author-thumb2.jpg\" alt=\"Author Image\"><span class=\"custom-tooltip\">Jeffery A, Owner</span></a></div><div class=\"atbd_thumbnail_overlay_content\"><ul class=\"atbd_upper_badge\"><li><span class=\"atbd_badge atbd_badge_featured\">Featured</span></li></ul><!-- ends .atbd_upper_badge --></div><!-- ends: .atbd_thumbnail_overlay_content --></figure><!-- ends: .atbd_listing_thumbnail_area --><div class=\"atbd_listing_info\"><div class=\"atbd_content_upper\"><h4 class=\"atbd_listing_title\"><a href=\"\">Flanders Heat &amp; Air Systems</a></h4><div class=\"atbd_listing_meta\"><span class=\"atbd_meta atbd_listing_rating\">4.5<i class=\"la la-star\"></i></span><span class=\"atbd_meta atbd_listing_price\">$55.00</span><span class=\"atbd_meta atbd_badge_open\">Open Now</span></div><!-- End atbd listing meta --><div class=\"atbd_listing_data_list\"><ul><li><p><span class=\"la la-map-marker\"></span>Los Angeles, United States</p></li><li><p><span class=\"la la-phone\"></span>(415) 796-3633</p></li><li><p><span class=\"la la-calendar-check-o\"></span>Posted 2 months ago</p></li></ul></div><!-- End atbd listing meta --></div><!-- end .atbd_content_upper --><div class=\"atbd_listing_bottom_content\"><div class=\"atbd_content_left\"><div class=\"atbd_listing_category\"><a href=\"\"><span class=\"la la-glass\"></span>Restaurant</a></div></div><ul class=\"atbd_content_right\"><li class=\"atbd_count\"><span class=\"la la-eye\"></span>900+</li><li class=\"atbd_save\"><span class=\"la la-heart-o\"></span></li></ul></div><!-- end .atbd_listing_bottom_content --></div><!-- ends: .atbd_listing_info --></article><!-- atbd_single_listing_wrapper --></div></div><!-- ends: .col-lg-4 --><div class=\"col-lg-4 col-sm-6\"><div class=\"atbd_single_listing\"><article class=\"atbd_single_listing_wrapper\"><figure class=\"atbd_listing_thumbnail_area\"><div class=\"atbd_listing_image\"><a href=\"\"><img src=\"img/p2.jpg\" alt=\"listing image\"></a></div><!-- ends: .atbd_listing_image --><div class=\"atbd_author atbd_author--thumb\"><a href=\"\"><img src=\"img/author-thumb2.jpg\" alt=\"Author Image\"><span class=\"custom-tooltip\">Jeffery A, Owner</span></a></div><div class=\"atbd_thumbnail_overlay_content\"><ul class=\"atbd_upper_badge\"><li><span class=\"atbd_badge atbd_badge_popular\">Popular</span></li></ul><!-- ends .atbd_upper_badge --></div><!-- ends: .atbd_thumbnail_overlay_content --></figure><!-- ends: .atbd_listing_thumbnail_area --><div class=\"atbd_listing_info\"><div class=\"atbd_content_upper\"><h4 class=\"atbd_listing_title\"><a href=\"\">Sydney Restaurant Towers</a></h4><div class=\"atbd_listing_meta\"><span class=\"atbd_meta atbd_listing_rating\">4.5<i class=\"la la-star\"></i></span><span class=\"atbd_meta atbd_listing_average_pricing\" data-toggle=\"tooltip\" data-placement=\"top\" title=\"\" data-original-title=\"Average\"><span class=\"atbd_active\"><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span><span class=\"atbd_active\"><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span><span><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span><span><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span></span><span class=\"atbd_meta atbd_badge_close\">Closed</span></div><!-- End atbd listing meta --><div class=\"atbd_listing_data_list\"><ul><li><p><span class=\"la la-map-marker\"></span>Los Angeles, United States</p></li><li><p><span class=\"la la-phone\"></span>(415) 796-3633</p></li><li><p><span class=\"la la-calendar-check-o\"></span>Posted 2 months ago</p></li></ul></div><!-- End atbd listing meta --></div><!-- end .atbd_content_upper --><div class=\"atbd_listing_bottom_content\"><div class=\"atbd_content_left\"><div class=\"atbd_listing_category\"><a href=\"\"><span class=\"la la-map-marker\"></span>Places</a><div class=\"atbd_cat_popup\"><span>+2</span><div class=\"atbd_cat_popup_wrapper\"><span><a href=\"\">Event</a></span><span><a href=\"\">Food</a></span></div></div></div></div><ul class=\"atbd_content_right\"><li class=\"atbd_count\"><span class=\"la la-eye\"></span>900+</li><li class=\"atbd_save\"><span class=\"la la-heart-o\"></span></li></ul></div><!-- end .atbd_listing_bottom_content --></div><!-- ends: .atbd_listing_info --></article><!-- atbd_single_listing_wrapper --></div></div><!-- ends: .col-lg-4 --><div class=\"col-lg-4 col-sm-6\"><div class=\"atbd_single_listing\"><article class=\"atbd_single_listing_wrapper\"><figure class=\"atbd_listing_thumbnail_area\"><div class=\"atbd_listing_image\"><a href=\"\"><img src=\"img/p3.jpg\" alt=\"listing image\"></a></div><!-- ends: .atbd_listing_image --><div class=\"atbd_author atbd_author--thumb\"><a href=\"\"><img src=\"img/author-thumb2.jpg\" alt=\"Author Image\"><span class=\"custom-tooltip\">Jeffery A, Owner</span></a></div><div class=\"atbd_thumbnail_overlay_content\"><ul class=\"atbd_upper_badge\"><li><span class=\"atbd_badge atbd_badge_new\">New</span></li></ul><!-- ends .atbd_upper_badge --></div><!-- ends: .atbd_thumbnail_overlay_content --></figure><!-- ends: .atbd_listing_thumbnail_area --><div class=\"atbd_listing_info\"><div class=\"atbd_content_upper\"><h4 class=\"atbd_listing_title\"><a href=\"\">Kung Food &amp; Drinks</a></h4><div class=\"atbd_listing_meta\"><span class=\"atbd_meta atbd_listing_rating\">4.5<i class=\"la la-star\"></i></span><span class=\"atbd_meta atbd_listing_average_pricing\" data-toggle=\"tooltip\" data-placement=\"top\" title=\"\" data-original-title=\"Average\"><span class=\"atbd_active\"><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span><span class=\"atbd_active\"><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span><span><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span><span><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span></span><span class=\"atbd_meta atbd_badge_close\">Closed</span></div><!-- End atbd listing meta --><div class=\"atbd_listing_data_list\"><ul><li><p><span class=\"la la-map-marker\"></span>Los Angeles, United States</p></li><li><p><span class=\"la la-phone\"></span>(415) 796-3633</p></li><li><p><span class=\"la la-calendar-check-o\"></span>Posted 2 months ago</p></li></ul></div><!-- End atbd listing meta --></div><!-- end .atbd_content_upper --><div class=\"atbd_listing_bottom_content\"><div class=\"atbd_content_left\"><div class=\"atbd_listing_category\"><a href=\"\"><span class=\"la la-shopping-cart\"></span>Shopping</a></div></div><ul class=\"atbd_content_right\"><li class=\"atbd_count\"><span class=\"la la-eye\"></span>900+</li><li class=\"atbd_save\"><span class=\"la la-heart-o\"></span></li></ul></div><!-- end .atbd_listing_bottom_content --></div><!-- ends: .atbd_listing_info --></article><!-- atbd_single_listing_wrapper --></div></div><!-- ends: .col-lg-4 --><div class=\"col-lg-4 col-sm-6\"><div class=\"atbd_single_listing\"><article class=\"atbd_single_listing_wrapper\"><figure class=\"atbd_listing_thumbnail_area\"><div class=\"atbd_listing_image\"><a href=\"\"><img src=\"img/p4.jpg\" alt=\"listing image\"></a></div><!-- ends: .atbd_listing_image --><div class=\"atbd_author atbd_author--thumb\"><a href=\"\"><img src=\"img/author-thumb2.jpg\" alt=\"Author Image\"><span class=\"custom-tooltip\">Jeffery A, Owner</span></a></div><div class=\"atbd_thumbnail_overlay_content\"><ul class=\"atbd_upper_badge\"><li><span class=\"atbd_badge atbd_badge_featured\">Featured</span></li><li><span class=\"atbd_badge atbd_badge_popular\">Popular</span></li></ul><!-- ends .atbd_upper_badge --></div><!-- ends: .atbd_thumbnail_overlay_content --></figure><!-- ends: .atbd_listing_thumbnail_area --><div class=\"atbd_listing_info\"><div class=\"atbd_content_upper\"><h4 class=\"atbd_listing_title\"><a href=\"\">Favorite Place Fog Bank</a></h4><div class=\"atbd_listing_meta\"><span class=\"atbd_meta atbd_listing_rating\">4.5<i class=\"la la-star\"></i></span><span class=\"atbd_meta atbd_listing_average_pricing\" data-toggle=\"tooltip\" data-placement=\"top\" title=\"\" data-original-title=\"Average\"><span class=\"atbd_active\"><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span><span class=\"atbd_active\"><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span><span><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span><span><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span></span><span class=\"atbd_meta atbd_badge_open\">Open Now</span></div><!-- End atbd listing meta --><div class=\"atbd_listing_data_list\"><ul><li><p><span class=\"la la-map-marker\"></span>Los Angeles, United States</p></li><li><p><span class=\"la la-phone\"></span>(415) 796-3633</p></li><li><p><span class=\"la la-calendar-check-o\"></span>Posted 2 months ago</p></li></ul></div><!-- End atbd listing meta --></div><!-- end .atbd_content_upper --><div class=\"atbd_listing_bottom_content\"><div class=\"atbd_content_left\"><div class=\"atbd_listing_category\"><a href=\"\"><span class=\"la la-bank\"></span>Art &amp; History</a></div></div><ul class=\"atbd_content_right\"><li class=\"atbd_count\"><span class=\"la la-eye\"></span>900+</li><li class=\"atbd_save\"><span class=\"la la-heart-o\"></span></li></ul></div><!-- end .atbd_listing_bottom_content --></div><!-- ends: .atbd_listing_info --></article><!-- atbd_single_listing_wrapper --></div></div><!-- ends: .col-lg-4 --><div class=\"col-lg-4 col-sm-6\"><div class=\"atbd_single_listing\"><article class=\"atbd_single_listing_wrapper\"><figure class=\"atbd_listing_thumbnail_area\"><div class=\"atbd_listing_image\"><a href=\"\"><img src=\"img/p5.jpg\" alt=\"listing image\"></a></div><!-- ends: .atbd_listing_image --><div class=\"atbd_author atbd_author--thumb\"><a href=\"\"><img src=\"img/author-thumb2.jpg\" alt=\"Author Image\"><span class=\"custom-tooltip\">Jeffery A, Owner</span></a></div><div class=\"atbd_thumbnail_overlay_content\"><ul class=\"atbd_upper_badge\"></ul><!-- ends .atbd_upper_badge --></div><!-- ends: .atbd_thumbnail_overlay_content --></figure><!-- ends: .atbd_listing_thumbnail_area --><div class=\"atbd_listing_info\"><div class=\"atbd_content_upper\"><h4 class=\"atbd_listing_title\"><a href=\"\">Flanders Heat &amp; Air Systems</a></h4><div class=\"atbd_listing_meta\"><span class=\"atbd_meta atbd_listing_rating\">4.5<i class=\"la la-star\"></i></span><span class=\"atbd_meta atbd_listing_price\">$55.00</span><span class=\"atbd_meta atbd_badge_close\">Closed</span></div><!-- End atbd listing meta --><div class=\"atbd_listing_data_list\"><ul><li><p><span class=\"la la-map-marker\"></span>Los Angeles, United States</p></li><li><p><span class=\"la la-phone\"></span>(415) 796-3633</p></li><li><p><span class=\"la la-calendar-check-o\"></span>Posted 2 months ago</p></li></ul></div><!-- End atbd listing meta --></div><!-- end .atbd_content_upper --><div class=\"atbd_listing_bottom_content\"><div class=\"atbd_content_left\"><div class=\"atbd_listing_category\"><a href=\"\"><span class=\"la la-bed\"></span>Hotel &amp; Travel</a></div></div><ul class=\"atbd_content_right\"><li class=\"atbd_count\"><span class=\"la la-eye\"></span>900+</li><li class=\"atbd_save\"><span class=\"la la-heart-o\"></span></li></ul></div><!-- end .atbd_listing_bottom_content --></div><!-- ends: .atbd_listing_info --></article><!-- atbd_single_listing_wrapper --></div></div><!-- ends: .col-lg-4 --><div class=\"col-lg-4 col-sm-6\"><div class=\"atbd_single_listing\"><article class=\"atbd_single_listing_wrapper\"><figure class=\"atbd_listing_thumbnail_area\"><div class=\"atbd_listing_image\"><a href=\"\"><img src=\"img/p6.jpg\" alt=\"listing image\"></a></div><!-- ends: .atbd_listing_image --><div class=\"atbd_author atbd_author--thumb\"><a href=\"\"><img src=\"img/author-thumb2.jpg\" alt=\"Author Image\"><span class=\"custom-tooltip\">Jeffery A, Owner</span></a></div><div class=\"atbd_thumbnail_overlay_content\"><ul class=\"atbd_upper_badge\"></ul><!-- ends .atbd_upper_badge --></div><!-- ends: .atbd_thumbnail_overlay_content --></figure><!-- ends: .atbd_listing_thumbnail_area --><div class=\"atbd_listing_info\"><div class=\"atbd_content_upper\"><h4 class=\"atbd_listing_title\"><a href=\"\">Store Clothing Shopping Mall</a></h4><div class=\"atbd_listing_meta\"><span class=\"atbd_meta atbd_listing_rating\">4.5<i class=\"la la-star\"></i></span><span class=\"atbd_meta atbd_listing_average_pricing\" data-toggle=\"tooltip\" data-placement=\"top\" title=\"\" data-original-title=\"Average\"><span class=\"atbd_active\"><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span><span class=\"atbd_active\"><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span><span><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span><span><img src=\"img/svg/dollar.svg\" class=\"svg\" alt=\"\"></span></span><span class=\"atbd_meta atbd_badge_open\">Open Now</span></div><!-- End atbd listing meta --><div class=\"atbd_listing_data_list\"><ul><li><p><span class=\"la la-map-marker\"></span>Los Angeles, United States</p></li><li><p><span class=\"la la-phone\"></span>(415) 796-3633</p></li><li><p><span class=\"la la-calendar-check-o\"></span>Posted 2 months ago</p></li></ul></div><!-- End atbd listing meta --></div><!-- end .atbd_content_upper --><div class=\"atbd_listing_bottom_content\"><div class=\"atbd_content_left\"><div class=\"atbd_listing_category\"><a href=\"\"><span class=\"la la-cutlery\"></span>Food &amp; Drink</a><div class=\"atbd_cat_popup\"><span>+2</span><div class=\"atbd_cat_popup_wrapper\"><span><a href=\"\">Event</a></span><span><a href=\"\">Food</a></span></div></div></div></div><ul class=\"atbd_content_right\"><li class=\"atbd_count\"><span class=\"la la-eye\"></span>900+</li><li class=\"atbd_save\"><span class=\"la la-heart-o\"></span></li></ul></div><!-- end .atbd_listing_bottom_content --></div><!-- ends: .atbd_listing_info --></article><!-- atbd_single_listing_wrapper --></div></div><!-- ends: .col-lg-4 --><div class=\"col-lg-12 text-center m-top-20\"><a href=\"\" class=\"btn btn-gradient btn-gradient-two\">Explore All 200+</a></div></div></div><!-- ends: .listing-cards-wrapper --></div></div></section>", 1);
 
 function render(_ctx, _cache, $props, $setup, $data, $options) {
-  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("div", null, [_hoisted_1, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" ends: .intro-wrapper "), _hoisted_2, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" ends: .categories-cards "), _hoisted_3, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" ends: .listing-cards "), _hoisted_4, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" ends: .cta "), _hoisted_5, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" ends: .places "), _hoisted_6, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" ends: .testimonial-wrapper "), _hoisted_7, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" ends: .clients-logo-wrapper "), _hoisted_8, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" ends: .subscribe-wrapper "), _hoisted_9, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" ends: .footer "), _hoisted_10, _hoisted_11]);
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("div", null, [_hoisted_1, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" ends: .listing-cards ")]);
 }
 
 /***/ }),
@@ -45073,10 +45226,10 @@ exports["default"] = (sfc, props) => {
 
 /***/ }),
 
-/***/ "./resources/js/Pages/Welcome.vue":
-/*!****************************************!*\
-  !*** ./resources/js/Pages/Welcome.vue ***!
-  \****************************************/
+/***/ "./resources/js/Pages/Home.vue":
+/*!*************************************!*\
+  !*** ./resources/js/Pages/Home.vue ***!
+  \*************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -45084,15 +45237,15 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _Welcome_vue_vue_type_template_id_317d1a6e_lang_true__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Welcome.vue?vue&type=template&id=317d1a6e&lang=true */ "./resources/js/Pages/Welcome.vue?vue&type=template&id=317d1a6e&lang=true");
-/* harmony import */ var _Welcome_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Welcome.vue?vue&type=script&lang=js */ "./resources/js/Pages/Welcome.vue?vue&type=script&lang=js");
+/* harmony import */ var _Home_vue_vue_type_template_id_6a63e488_lang_true__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Home.vue?vue&type=template&id=6a63e488&lang=true */ "./resources/js/Pages/Home.vue?vue&type=template&id=6a63e488&lang=true");
+/* harmony import */ var _Home_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Home.vue?vue&type=script&lang=js */ "./resources/js/Pages/Home.vue?vue&type=script&lang=js");
 /* harmony import */ var C_laragon_www_Laravel_Job_Listings_QuickAdminPanel_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_laragon_www_Laravel_Job_Listings_QuickAdminPanel_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Welcome_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Welcome_vue_vue_type_template_id_317d1a6e_lang_true__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Pages/Welcome.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_laragon_www_Laravel_Job_Listings_QuickAdminPanel_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Home_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Home_vue_vue_type_template_id_6a63e488_lang_true__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Pages/Home.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -45101,34 +45254,274 @@ if (false) {}
 
 /***/ }),
 
-/***/ "./resources/js/Pages/Welcome.vue?vue&type=script&lang=js":
-/*!****************************************************************!*\
-  !*** ./resources/js/Pages/Welcome.vue?vue&type=script&lang=js ***!
-  \****************************************************************/
+/***/ "./resources/js/Sections/CategoryGridSection.vue":
+/*!*******************************************************!*\
+  !*** ./resources/js/Sections/CategoryGridSection.vue ***!
+  \*******************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Welcome_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__["default"])
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Welcome_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./Welcome.vue?vue&type=script&lang=js */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Welcome.vue?vue&type=script&lang=js");
+/* harmony import */ var _CategoryGridSection_vue_vue_type_template_id_392aa204_lang_true__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./CategoryGridSection.vue?vue&type=template&id=392aa204&lang=true */ "./resources/js/Sections/CategoryGridSection.vue?vue&type=template&id=392aa204&lang=true");
+/* harmony import */ var _CategoryGridSection_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./CategoryGridSection.vue?vue&type=script&lang=js */ "./resources/js/Sections/CategoryGridSection.vue?vue&type=script&lang=js");
+/* harmony import */ var C_laragon_www_Laravel_Job_Listings_QuickAdminPanel_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+
+
+
+
+;
+const __exports__ = /*#__PURE__*/(0,C_laragon_www_Laravel_Job_Listings_QuickAdminPanel_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_CategoryGridSection_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_CategoryGridSection_vue_vue_type_template_id_392aa204_lang_true__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Sections/CategoryGridSection.vue"]])
+/* hot reload */
+if (false) {}
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__exports__);
+
+/***/ }),
+
+/***/ "./resources/js/Sections/FooterSection.vue":
+/*!*************************************************!*\
+  !*** ./resources/js/Sections/FooterSection.vue ***!
+  \*************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _FooterSection_vue_vue_type_template_id_57af93b2_lang_true__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./FooterSection.vue?vue&type=template&id=57af93b2&lang=true */ "./resources/js/Sections/FooterSection.vue?vue&type=template&id=57af93b2&lang=true");
+/* harmony import */ var _FooterSection_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./FooterSection.vue?vue&type=script&lang=js */ "./resources/js/Sections/FooterSection.vue?vue&type=script&lang=js");
+/* harmony import */ var C_laragon_www_Laravel_Job_Listings_QuickAdminPanel_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+
+
+
+
+;
+const __exports__ = /*#__PURE__*/(0,C_laragon_www_Laravel_Job_Listings_QuickAdminPanel_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_FooterSection_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_FooterSection_vue_vue_type_template_id_57af93b2_lang_true__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Sections/FooterSection.vue"]])
+/* hot reload */
+if (false) {}
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__exports__);
+
+/***/ }),
+
+/***/ "./resources/js/Sections/HeroSection.vue":
+/*!***********************************************!*\
+  !*** ./resources/js/Sections/HeroSection.vue ***!
+  \***********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _HeroSection_vue_vue_type_template_id_0f8f30b0_lang_true__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./HeroSection.vue?vue&type=template&id=0f8f30b0&lang=true */ "./resources/js/Sections/HeroSection.vue?vue&type=template&id=0f8f30b0&lang=true");
+/* harmony import */ var _HeroSection_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./HeroSection.vue?vue&type=script&lang=js */ "./resources/js/Sections/HeroSection.vue?vue&type=script&lang=js");
+/* harmony import */ var C_laragon_www_Laravel_Job_Listings_QuickAdminPanel_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+
+
+
+
+;
+const __exports__ = /*#__PURE__*/(0,C_laragon_www_Laravel_Job_Listings_QuickAdminPanel_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_HeroSection_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_HeroSection_vue_vue_type_template_id_0f8f30b0_lang_true__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Sections/HeroSection.vue"]])
+/* hot reload */
+if (false) {}
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__exports__);
+
+/***/ }),
+
+/***/ "./resources/js/Sections/ListingSection.vue":
+/*!**************************************************!*\
+  !*** ./resources/js/Sections/ListingSection.vue ***!
+  \**************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _ListingSection_vue_vue_type_template_id_2c3696b4_lang_true__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./ListingSection.vue?vue&type=template&id=2c3696b4&lang=true */ "./resources/js/Sections/ListingSection.vue?vue&type=template&id=2c3696b4&lang=true");
+/* harmony import */ var _ListingSection_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./ListingSection.vue?vue&type=script&lang=js */ "./resources/js/Sections/ListingSection.vue?vue&type=script&lang=js");
+/* harmony import */ var C_laragon_www_Laravel_Job_Listings_QuickAdminPanel_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+
+
+
+
+;
+const __exports__ = /*#__PURE__*/(0,C_laragon_www_Laravel_Job_Listings_QuickAdminPanel_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_ListingSection_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_ListingSection_vue_vue_type_template_id_2c3696b4_lang_true__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Sections/ListingSection.vue"]])
+/* hot reload */
+if (false) {}
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__exports__);
+
+/***/ }),
+
+/***/ "./resources/js/Pages/Home.vue?vue&type=script&lang=js":
+/*!*************************************************************!*\
+  !*** ./resources/js/Pages/Home.vue?vue&type=script&lang=js ***!
+  \*************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Home_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__["default"])
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Home_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./Home.vue?vue&type=script&lang=js */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Home.vue?vue&type=script&lang=js");
  
 
 /***/ }),
 
-/***/ "./resources/js/Pages/Welcome.vue?vue&type=template&id=317d1a6e&lang=true":
-/*!********************************************************************************!*\
-  !*** ./resources/js/Pages/Welcome.vue?vue&type=template&id=317d1a6e&lang=true ***!
-  \********************************************************************************/
+/***/ "./resources/js/Sections/CategoryGridSection.vue?vue&type=script&lang=js":
+/*!*******************************************************************************!*\
+  !*** ./resources/js/Sections/CategoryGridSection.vue?vue&type=script&lang=js ***!
+  \*******************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "render": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Welcome_vue_vue_type_template_id_317d1a6e_lang_true__WEBPACK_IMPORTED_MODULE_0__.render)
+/* harmony export */   "default": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_CategoryGridSection_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__["default"])
 /* harmony export */ });
-/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Welcome_vue_vue_type_template_id_317d1a6e_lang_true__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./Welcome.vue?vue&type=template&id=317d1a6e&lang=true */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Welcome.vue?vue&type=template&id=317d1a6e&lang=true");
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_CategoryGridSection_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./CategoryGridSection.vue?vue&type=script&lang=js */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Sections/CategoryGridSection.vue?vue&type=script&lang=js");
+ 
+
+/***/ }),
+
+/***/ "./resources/js/Sections/FooterSection.vue?vue&type=script&lang=js":
+/*!*************************************************************************!*\
+  !*** ./resources/js/Sections/FooterSection.vue?vue&type=script&lang=js ***!
+  \*************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_FooterSection_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__["default"])
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_FooterSection_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./FooterSection.vue?vue&type=script&lang=js */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Sections/FooterSection.vue?vue&type=script&lang=js");
+ 
+
+/***/ }),
+
+/***/ "./resources/js/Sections/HeroSection.vue?vue&type=script&lang=js":
+/*!***********************************************************************!*\
+  !*** ./resources/js/Sections/HeroSection.vue?vue&type=script&lang=js ***!
+  \***********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_HeroSection_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__["default"])
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_HeroSection_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./HeroSection.vue?vue&type=script&lang=js */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Sections/HeroSection.vue?vue&type=script&lang=js");
+ 
+
+/***/ }),
+
+/***/ "./resources/js/Sections/ListingSection.vue?vue&type=script&lang=js":
+/*!**************************************************************************!*\
+  !*** ./resources/js/Sections/ListingSection.vue?vue&type=script&lang=js ***!
+  \**************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_ListingSection_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__["default"])
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_ListingSection_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./ListingSection.vue?vue&type=script&lang=js */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Sections/ListingSection.vue?vue&type=script&lang=js");
+ 
+
+/***/ }),
+
+/***/ "./resources/js/Pages/Home.vue?vue&type=template&id=6a63e488&lang=true":
+/*!*****************************************************************************!*\
+  !*** ./resources/js/Pages/Home.vue?vue&type=template&id=6a63e488&lang=true ***!
+  \*****************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Home_vue_vue_type_template_id_6a63e488_lang_true__WEBPACK_IMPORTED_MODULE_0__.render)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Home_vue_vue_type_template_id_6a63e488_lang_true__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./Home.vue?vue&type=template&id=6a63e488&lang=true */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Home.vue?vue&type=template&id=6a63e488&lang=true");
+
+
+/***/ }),
+
+/***/ "./resources/js/Sections/CategoryGridSection.vue?vue&type=template&id=392aa204&lang=true":
+/*!***********************************************************************************************!*\
+  !*** ./resources/js/Sections/CategoryGridSection.vue?vue&type=template&id=392aa204&lang=true ***!
+  \***********************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_CategoryGridSection_vue_vue_type_template_id_392aa204_lang_true__WEBPACK_IMPORTED_MODULE_0__.render)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_CategoryGridSection_vue_vue_type_template_id_392aa204_lang_true__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./CategoryGridSection.vue?vue&type=template&id=392aa204&lang=true */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Sections/CategoryGridSection.vue?vue&type=template&id=392aa204&lang=true");
+
+
+/***/ }),
+
+/***/ "./resources/js/Sections/FooterSection.vue?vue&type=template&id=57af93b2&lang=true":
+/*!*****************************************************************************************!*\
+  !*** ./resources/js/Sections/FooterSection.vue?vue&type=template&id=57af93b2&lang=true ***!
+  \*****************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_FooterSection_vue_vue_type_template_id_57af93b2_lang_true__WEBPACK_IMPORTED_MODULE_0__.render)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_FooterSection_vue_vue_type_template_id_57af93b2_lang_true__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./FooterSection.vue?vue&type=template&id=57af93b2&lang=true */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Sections/FooterSection.vue?vue&type=template&id=57af93b2&lang=true");
+
+
+/***/ }),
+
+/***/ "./resources/js/Sections/HeroSection.vue?vue&type=template&id=0f8f30b0&lang=true":
+/*!***************************************************************************************!*\
+  !*** ./resources/js/Sections/HeroSection.vue?vue&type=template&id=0f8f30b0&lang=true ***!
+  \***************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_HeroSection_vue_vue_type_template_id_0f8f30b0_lang_true__WEBPACK_IMPORTED_MODULE_0__.render)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_HeroSection_vue_vue_type_template_id_0f8f30b0_lang_true__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./HeroSection.vue?vue&type=template&id=0f8f30b0&lang=true */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Sections/HeroSection.vue?vue&type=template&id=0f8f30b0&lang=true");
+
+
+/***/ }),
+
+/***/ "./resources/js/Sections/ListingSection.vue?vue&type=template&id=2c3696b4&lang=true":
+/*!******************************************************************************************!*\
+  !*** ./resources/js/Sections/ListingSection.vue?vue&type=template&id=2c3696b4&lang=true ***!
+  \******************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_ListingSection_vue_vue_type_template_id_2c3696b4_lang_true__WEBPACK_IMPORTED_MODULE_0__.render)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_ListingSection_vue_vue_type_template_id_2c3696b4_lang_true__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./ListingSection.vue?vue&type=template&id=2c3696b4&lang=true */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Sections/ListingSection.vue?vue&type=template&id=2c3696b4&lang=true");
 
 
 /***/ }),
@@ -45370,8 +45763,8 @@ function compileToFunction(template, options) {
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 var map = {
-	"./Welcome": "./resources/js/Pages/Welcome.vue",
-	"./Welcome.vue": "./resources/js/Pages/Welcome.vue"
+	"./Home": "./resources/js/Pages/Home.vue",
+	"./Home.vue": "./resources/js/Pages/Home.vue"
 };
 
 

@@ -20,6 +20,7 @@
     @inertiaHead
   </head>
   <body>
+      
     @inertia
 
      <!-- inject:js-->

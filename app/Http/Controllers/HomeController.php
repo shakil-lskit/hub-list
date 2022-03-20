@@ -12,7 +12,8 @@ class HomeController extends Controller
 {
     public function index()
     {
-        return Inertia::render('Welcome');
+        return Inertia::render('Home');
+
         // $searchLocations = Location::pluck('name', 'id');
         // $searchCategories = Category::pluck('name', 'id');
         // $searchByCategory = Category::withCount('jobs')
