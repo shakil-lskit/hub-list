@@ -25,7 +25,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-          
+        resolve(\Illuminate\Routing\UrlGenerator::class)->forceScheme('https');
         View::composer('layouts.main', 'App\Http\View\Composers\SidebarComposer');
     }
 }
